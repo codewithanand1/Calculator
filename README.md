@@ -1,5 +1,4 @@
-Calculator Readme
-Calculator App
+
 
 A simple Calculator built with HTML, CSS, and JavaScript
 
@@ -21,12 +20,12 @@ Responsive layout for mobile and desktop
 
 HTML
 
-CSS (Flexbox/Grid)
+CSS 
 
-JavaScript (DOM API)
+JavaScript 
 
 📁 Project structure
-calculator/ # repo root
+calculator/ 
 ├─ index.html
 ├─ style.css
 ├─ script.js
